@@ -9,5 +9,10 @@
     "primaryCategory": "developer-tools",
     "splashImageUrl": "https://1test.vercel.app/logo.png",
     "splashBackgroundColor": "#ffffff"
+  },
+  "accountAssociation": {
+    "header": "eyJmaWQiOjY4MjA1NiwidHlwZSI6ImN1c3RvZHkiLCJrZXkiOiIweEQ0MzRlMDgwNzM0YzY1OEViNjI0MmYyYjIyMzUxNzZjMUE2NjA4Q2IifQ",
+    "payload": "eyJkb21haW4iOiIxdGVzdC52ZXJjZWwuYXBwIn0",
+    "signature": "MHgwMjViODBiNTQzNTc0MmQzODQzOTM4N2YwMTdkYTVjNjViZWJkYzUzZDg3ZjZjYWMzZmQ1NzdlZDA1NWM1ZmE1MTdhNzQwMjc1ZDBlZWEyZjZiZWQwZjYwYTVlZThlNjFlYjQxNGFiNTBiMjdlYTAyMmU4NmE1NDU1MjA2YjVhMTFj"
   }
 }
